@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Wangchf's github activity graph](https://raw.githubusercontent.com/Wangch29/Wangch29/output/github-contribution-grid-snake.svg)
+![Wangchf's github activity graph](https://raw.githubusercontent.com/Wangch29/Wangch29/output/github-contribution-grid-snake-dark.svg)
 
 
 [![Wangchf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangch29&?count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
